@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+:root {
+    --colorNaranja: #ff7900;
+    --colorAzul: #014596;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+#landing-page {
+    background-image: url(../img/fondobb.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.img-logo {
+    height: 300px;
+}
+
+.text-landing {
+    color: var(--colorAzul);
+    font-size: 2.7rem;
+}
+
+.bandera-ar, .bandera-uy {
+    width: auto;
+}
+
+.banderas a {
+    text-decoration: none;
+    color: var(--colorAzul);
+    font-size: 1.2rem;
+    font-weight: bold;
+    width: 180px;
+}
+
+.banderas a > p {
+    text-align: center;
+}
+
+.selecciona-pais {
+    color: #fff;
+    background-color: var(--colorNaranja);
+    letter-spacing: 3px;
+    width: max-content;
+    font-weight: bold;
+}
