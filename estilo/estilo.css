@@ -82,8 +82,9 @@
 }
 
 @media screen and (max-width: 375px) {
-    .text-landing {
-        font-size: 2rem;
+    .banderas img,a {
+        width:25%;
+        text-align: center;
     }
 }
 
@@ -91,24 +92,24 @@
     .text-landing {
         font-size: 1.9rem;
     }
+    .banderas img,a {
+        width:100%;
+        text-align: center;
+    }
 }
-
-
-
-
-
 
 
 .bandera-ar, .bandera-uy {
     width: auto;
 }
 
+
+
 .banderas a {
     text-decoration: none;
     color: var(--colorAzul);
     font-size: 1.2rem;
     font-weight: bold;
-    width: 180px;
 }
 
 .banderas a > p {
