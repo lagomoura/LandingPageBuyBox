@@ -69,6 +69,36 @@
     font-size: 2.7rem;
 }
 
+@media screen and (max-width: 912px) {
+    .text-landing {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .text-landing {
+        font-size: 2.2rem;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .text-landing {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .text-landing {
+        font-size: 1.9rem;
+    }
+}
+
+
+
+
+
+
+
 .bandera-ar, .bandera-uy {
     width: auto;
 }
