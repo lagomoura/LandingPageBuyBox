@@ -6,5 +6,8 @@ Construida con:
 
 * HTML
 * CSS
+* Bootstrap
 
-Actualmente en deploy bajo url: https://buyboxoficial.com/
+Actualmente en producción bajo url: https://buyboxoficial.com/
+
+### Por cualquier eventual problema, consulta y/o sugerencias: mouralago@livecom
