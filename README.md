@@ -10,4 +10,4 @@ Construida con:
 
 Actualmente en producción bajo url: https://buyboxoficial.com/
 
-### Por cualquier eventual problema, consulta y/o sugerencias: mouralago@livecom
+##### Por cualquier eventual problema, consulta y/o sugerencias: mouralago@livecom
